@@ -1,7 +1,7 @@
 # Web-Scraper
 Required libraries
 
- >`pip install beautifulsoup4
+`>pip install beautifulsoup4
 
  >pip install lxml 
  
