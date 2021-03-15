@@ -49,6 +49,8 @@ The approach and tools you need to gather information using APIs are outside the
 The goal of both web scraping and APIs is to access web data.
 Web scraping allows you to extract data from any website through the use of web scraping software. APIs give you direct access to the data you’d want.
 
+## Conclusion
+
 As a result, you might find yourself in a scenario where there might not be an API to access the data you want, or the access to the API might be too limited or expensive.
 
 In these scenarios, web scraping would allow you to access the data as long as it is available on a website.
