@@ -1,7 +1,9 @@
 # Web-Scraper
 Required libraries
-`pip install beautifulsoup4 \n
- pip install lxml \n
+`pip install beautifulsoup4
+
+ pip install lxml 
+ 
  pip install requests`
 
 ## What Is Web Scraping?
