@@ -28,7 +28,7 @@ The Web has grown organically out of many sources. It combines a ton of differen
 
 One challenge is variety. Every website is different. While you’ll encounter general structures that tend to repeat themselves, each website is unique and will need its own personal treatment if you want to extract the information that’s relevant to you.
 
-Another challenge is durability. Websites constantly change. Say you’ve built a shiny new web scraper that automatically cherry-picks precisely what you want from your resource of interest. The first time you run your script, it works flawlessly. But when you run the same script only a short while later, you run into a discouraging and lengthy stack of tracebacks!
+Another challenge is durability. Websites constantly change. 
 
 This is a realistic scenario, as many websites are in active development. Once the site’s structure has changed, your scraper might not be able to navigate the sitemap correctly or find the relevant information. The good news is that many changes to websites are small and incremental, so you’ll likely be able to update your scraper with only minimal adjustments.
 
@@ -48,6 +48,30 @@ The approach and tools you need to gather information using APIs are outside the
 
 The goal of both web scraping and APIs is to access web data.
 Web scraping allows you to extract data from any website through the use of web scraping software. APIs give you direct access to the data you’d want.
+
+## A few scraping rules
+
+Now that we have the packages we need, we can start scraping. But first, a couple of rules.
+
+ >You should check a site's terms and conditions before you scrape them. It's their data and they likely have some rules to govern it.
+
+ >Be nice - Make the crawling slower, do not slam the server, treat websites nicely. A computer will send web requests much quicker than a user can. 
+          Make sure you space out your requests a bit so that you don't hammer the site's server.
+
+ >Scrapers break - Sites change their layout all the time. If that happens, be prepared to rewrite your code.
+
+ >Web pages are inconsistent - There's sometimes some manual clean up that has to happen even after you've gotten your data.
+
+## Scraper tools and bots
+Web scraping tools are software (i.e., bots) programmed to sift through databases and extract information. A variety of bot types are used, many being fully customizable to:
+
+ >Recognize unique HTML site structures
+ 
+ >Extract and transform content
+ 
+ >Store scraped data
+ 
+ >Extract data from APIs
 
 ## Conclusion
 
