@@ -33,7 +33,7 @@ And I would love to be a tiny part of SunPy.
 
 
 
-Section 2: Applicant as a Programmer
+### Section 2: Applicant as a Programmer
 
 Open Source background and programming experience: 
 
@@ -50,7 +50,7 @@ Link your projects
 I will keep contributing to SunPy throughout the selection process and beyond.
 
 
-Section 3: Applicant and the Project Idea
+### Section 3: Applicant and the Project Idea
 
 What excites me about this project? Why did I choose it?
 The name of the project itself is very absorbing. After looking into it I feel wow how we can crawl the ever changing web to get something useful out of it.
@@ -60,7 +60,7 @@ I am a very curious person and a fast learner.
 I accept when I don’t know something and try to grasp it asap. I never leave things undone. When I put my hand to something despite the difficulties, I found my way out.
 Also, these days I have been working on some Web-Scraping projects and learning required skill sets that make me confident enough to do this project.
 
-The Project Plan
+#### The Project Plan
 
 Synopsis
 SunPy provides a way for users to access data and its many in
@@ -73,9 +73,9 @@ Scraper crashes with specific url pattern #4493
 
 
 
-Deliverables
+#### Deliverables
 
-Kate it's incomplete
+# Kate it's incomplete
 
 Functions
 API.
@@ -130,38 +130,6 @@ Complete documentation and add some gallery examples wherever required.
 
 Week 13 (August  - August 16)
 Final touch ups (if left) to the deliverables.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Section 4: Me and GSoC
